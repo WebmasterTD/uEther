@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "uConsole_fp")(type "KiCad")(uri "/Users/akosmelczer/uConsole/uEther/hw_lib/uConsole_fp.pretty")(options "")(descr ""))
+)
