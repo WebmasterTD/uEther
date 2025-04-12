@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "e94ed1ef-6d03-4499-bd01-95d79e36c55a")
 	(paper "A4")
+	(title_block
+		(title "uEther")
+		(rev "rev B")
+	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole_Pad"
 			(pin_numbers
