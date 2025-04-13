@@ -7692,6 +7692,16 @@
 		)
 		(uuid "7ccc7b81-e873-4d8b-8f07-06f8b9922dda")
 	)
+	(label "USBC_D+"
+		(at 53.34 170.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "82a29245-6f11-412b-9269-adf595a7136c")
+	)
 	(label "EEDO"
 		(at 256.54 137.16 180)
 		(effects
@@ -7801,6 +7811,16 @@
 			(justify right bottom)
 		)
 		(uuid "c3cda109-f202-4cb1-a059-593112441401")
+	)
+	(label "USBC_D-"
+		(at 53.34 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c703b7a0-b36a-43b3-b88b-4498de5f92a5")
 	)
 	(label "USB1_DN"
 		(at 114.3 111.76 0)
