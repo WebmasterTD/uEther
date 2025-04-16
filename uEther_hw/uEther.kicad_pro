@@ -647,7 +647,7 @@
           "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -695,6 +695,24 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "VAL_CRYSTAL",
+          "name": "VAL_CRYSTAL",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "VAL_OSCILLATOR",
+          "name": "VAL_OSCILLATOR",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "PN",
+          "name": "PN",
           "show": false
         }
       ],
